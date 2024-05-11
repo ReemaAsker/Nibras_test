@@ -1,0 +1,1 @@
+ E:\\Flutter\ projects\\nibras_test\\nibras_test\\.dart_tool\\flutter_build\\a7b9e1412ee83e6889531dfb6a234313\\native_assets.yaml: 

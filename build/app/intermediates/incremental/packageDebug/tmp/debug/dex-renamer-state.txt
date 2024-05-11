@@ -1,0 +1,4 @@
+#Fri May 10 18:24:18 IDT 2024
+base.0=E\:\\Flutter projects\\nibras_test\\nibras_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
